@@ -10,4 +10,3 @@ huggingface-hub
 python-dotenv
 PyPDF2
 pypdf
-sqlite3
